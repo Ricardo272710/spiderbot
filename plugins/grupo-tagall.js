@@ -7,7 +7,7 @@ let pesan = args.join` `
 let oi = `ღ ${lenguajeGB['smsAddB5']()} ${pesan}`
 let teks = `╭━〔 *${lenguajeGB['smstagaa']()}* 〕━⬣\n\n${oi}\n\n`
 for (let mem of participants) {
-teks += `┃⊹ @${mem.id.split('@')[0]}\n`}
+teks += `┃🕷️ @${mem.id.split('@')[0]}\n`}
 teks += `┃\n`
 teks += `┃ ${wm}\n`
 teks += `╰━━━━━[ *𓃠 ${vs}* ]━━━━━⬣`
