@@ -9,7 +9,7 @@ handler.all = async function (m) {
 global.key = ''
 
 // Cuentas
-const response = await fetch('https://raw.githubusercontent.com/KatashiFukushima/KatashiBot-MD/master/official_accounts.json')  
+const response = await fetch('https://raw.githubusercontent.com/Ricardo272710/spiderBot-MD/master/official_accounts.json')  
 const data = await response.json()
 let { accounts, channels, groups, collaboration, sponsors, others } = data.info
 
@@ -54,10 +54,8 @@ global.redesMenu = [canal1, canal2, canal3, canal4, soporteGB, grupo1, grupo2, g
 global.accountsgb = [canal1, canal2, canal3, canal4, tk, ig, yt, paypal, fb, ths, md, asistencia].getRandom()
 
 var canalesInfo = [
-{ link: canal1, id: "120363178367665133@newsletter", name: "🥷🏻 KatashiBot 🥷🏻" },
-{ link: canal2, id: "120363205895430548@newsletter", name: "[RESPALDO] 🥷 KatashiBot 🤖" },
-{ link: canal3, id: "120363203805910750@newsletter", name: "INFINITY-WA 💫" } 
-]
+{ link: canal1, id: "120363178367665133@newsletter", name: "🥷🏻 𝙎𝙥𝙞𝙙𝙚𝙧𝘽𝙤𝙩 🥷🏻" },
+{ link: canal2, id: "120363205895430548@newsletter", name: "[RESPALDO] 🥷 𝙎𝙥𝙞𝙙𝙚𝙧𝘽𝙤𝙩 🤖" },
 var indiceAleatorio = Math.floor(Math.random() * canalesInfo.length)
 var channelRD = canalesInfo[indiceAleatorio]
 
