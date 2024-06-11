@@ -177,7 +177,6 @@ let menu = `〘  𝕊ℙ𝕀𝔻𝔼ℝ 𝕄𝔸ℕ 𝔹𝕆𝕋  〙
 ────────────❍
 ┃🔎puedes buscar lo que deseas usando:
 ┃👩‍💼.simi | ia texto
-┃👩‍💼.alexa | siri | texto
 ┃👩‍💼.simsimi | bixby texto ╰─────────
 ╰══════════⊷❍
 
@@ -241,11 +240,6 @@ let menu = `〘  𝕊ℙ𝕀𝔻𝔼ℝ 𝕄𝔸ℕ 𝔹𝕆𝕋  〙
 ┃🎯.advertencia  @tag 
 ┃🎯.deladvertencia  @tag
 ┃🎯.delwarn  @tag
-┃🎯.crearvoto | texto
-┃🎯.sivotar | upvote
-┃🎯.novotar | devote
-┃🎯.vervotos | cekvoto
-┃🎯.delvoto | deletevoto
 ┃🎯.enlace | link
 ┃🎯.newnombre | texto
 ┃🎯.newdesc | texto
@@ -259,12 +253,12 @@ let menu = `〘  𝕊ℙ𝕀𝔻𝔼ℝ 𝕄𝔸ℕ 𝔹𝕆𝕋  〙
  
            〘 PAREJAS 〙
 ────────────❍
-┃👫 .listaparejas | listship
-┃👩‍❤️‍💋‍👨 .mipareja | mylove
-┃👩‍❤️‍👨 .pareja | couple @tag
-┃💘 .aceptar | accept @tag
-┃💔 .rechazar | decline@tag
-┃🖤 .terminar | finish @tag
+┃👫 .listanovios
+┃👩‍❤️‍💋‍👨 .minovi@ 
+┃👩‍❤️‍👨 .novios | @tag
+┃💘 .siacepto | @tag
+┃💔 .noacepto | @tag
+┃🖤 .divorsio | @tag
 ╰───────────❍
 ╰══════════⊷❍
  
@@ -283,7 +277,6 @@ let menu = `〘  𝕊ℙ𝕀𝔻𝔼ℝ 𝕄𝔸ℕ 𝔹𝕆𝕋  〙
 ┃🕹️ .tovideo audio
 ┃🕹️ .tourl video/ imagen
 ┃🕹️.toenlace /vd/img/audi
-┃🖲️ .tts  texto
 ╰───────────❍
 ╰══════════⊷❍ 
 
@@ -448,10 +441,6 @@ TABLA DE CLASIFICACIÓN
 ──────────❍
 ┃♻️.sticker | IMG/VIDEO
 ┃♻️.emojimix 
-┃♻️.scircle | círculo imagen
-┃♻️.semoji | emoji tipo emoji
-┃🌠 .attp texto
-┃🌠 .attp2 texto
 ┃🗣️ .ttp texto
 ┃🗣️ .ttp2 texto
 ┃🗣️ .ttp3 texto
