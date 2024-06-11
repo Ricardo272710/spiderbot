@@ -7,7 +7,7 @@ await delay(1000 * 1);
 await conn.sendMessage(m.chat, {text: `🚀🚀🚀🚀`, edit: key});
 await delay(1000 * 1);
 await conn.sendMessage(m.chat, {text: `🚀🚀🚀🚀🚀🚀`, edit: key});
-await conn.sendMessage(m.chat, {text: `✇ 𝙎𝙥𝙞𝙙𝙚𝙧𝘽𝙤𝙩🕷️ ✇\n\n✇ 𝙎𝙥𝙞𝙙𝙚𝙧𝘽𝙤𝙩🕷️ ✇`, edit: key});
+await conn.sendMessage(m.chat, {text: `✇ 𝙎𝙥𝙞𝙙𝙚𝙧𝘽𝙤𝙩 se esta reiniciando🕷️ ✇\n\n✇ 𝙎𝙥𝙞𝙙𝙚𝙧𝘽𝙤𝙩 se esta reiniciando🕷️ ✇`, edit: key});
     process.send('reset')
   } else throw 'eh'
 }
