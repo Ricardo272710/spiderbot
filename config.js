@@ -66,7 +66,7 @@ global.keysxteammm = ["29d4b59a4aa687ca", "5LTV57azwaid7dXfz5fzJu", "cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ["5VC9rvNx", "cfALv5"]
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = "Gata_Dios"
+global.lolkeysapi = "spider_Dios"
 global.itsrose = ["4b146102c4d500809da9d1ff"]
 global.baileys = "@whiskeysockets/baileys"
 
@@ -115,7 +115,7 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51948705559", '𝙍𝙞𝙘𝙖𝙧𝙙𝙤 𝘼𝘿𝙈 💻', 1], 
+["593979133620", '𝙍𝙞𝙘𝙖𝙧𝙙𝙤 𝘼𝘿𝙈 💻', 1], 
 ["5217442363122", '𝙖𝙣𝙩𝙝𝙤𝙣𝙮 𝙤𝙧𝙜', 1]]  
 
 
