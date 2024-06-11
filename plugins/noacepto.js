@@ -1,7 +1,7 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
 let ff = `https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg`
 let noaceptotxt = `
-no acepta ser cacuch@ asi que buscate uni facil 😜
+𝙣𝙤 𝙖𝙘𝙚𝙥𝙩𝙖 𝙨𝙚𝙧 𝙘𝙖𝙘𝙝𝙪𝙙𝙤 , 𝙖𝙨𝙞 𝙦𝙪𝙚 𝙗𝙪𝙨𝙘𝙖𝙩𝙚 𝙪𝙣𝙖 𝙛𝙖𝙘𝙞𝙡 😜
 ` //Aquí arriba cambiar el texto sin borrar las comillas
 await conn.sendFile(m.chat, 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg', 'fantasy.jpg', noaceptotxt.trim(),
 //En esta imagen vas a poner el url de la imagen grande
