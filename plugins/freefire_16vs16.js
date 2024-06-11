@@ -1,5 +1,5 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
-let ff = `https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg`
+let ff = `https://qu.ax/ZnYx.jpeg`
 let vs16txt = `
 ╭──────⚔──────╮
 ㅤㅤ16 𝐕𝐄𝐑𝐒𝐔𝐒 16
@@ -45,7 +45,7 @@ let vs16txt = `
 ╰─────────────╯
                
 ` //Aquí arriba cambiar el texto sin borrar las comillas
-await conn.sendFile(m.chat, 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg', 'fantasy.jpg', vs16txt.trim(),
+await conn.sendFile(m.chat, 'https://qu.ax/ZnYx.jpeg', 'fantasy.jpg', vs16txt.trim(),
 //En esta imagen vas a poner el url de la imagen grande
  fkontak, true, {
 contextInfo: {
@@ -58,7 +58,7 @@ title: `Free Fire`,
 body: `vs`,
 mediaType: 1,
 sourceUrl: 'https://www.instagram.com/ricardoookadm_',
-thumbnailUrl: 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg'
+thumbnailUrl: 'https://qu.ax/ZnYx.jpeg'
 //Aquí arriba vas a poner el url de la imagen que irá junto a tu link de tu red social.
 }}
 }, { mentions: m.sender })
