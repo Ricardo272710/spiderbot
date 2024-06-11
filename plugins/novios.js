@@ -24,5 +24,5 @@ thumbnailUrl: 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg'
 }, { mentions: m.sender })
 
 }
-handler.command = /^(.novios|.novios)$/i
+handler.command = /^(novios|novios)$/i
 export default handler
