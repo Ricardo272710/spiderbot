@@ -1,7 +1,7 @@
 let handler = async (m, { conn, command, usedPrefix }) => {
-let ff = `https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg`
+let ff = ``
 let noviostxt = `
-estas apunto de ser venado🐐
+💓estas apunto de ser venado🐐
 Espera respuesta 
 Si o no @user
 ` //Aquí arriba cambiar el texto sin borrar las comillas
