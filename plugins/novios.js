@@ -3,7 +3,7 @@ let ff = ``
 let noviostxt = `
 💓estas apunto de ser venado🐐
 Espera respuesta 
-Si o no {toM(a)} 💞 ${toM(b)}
+Si o no 
 ` //Aquí arriba cambiar el texto sin borrar las comillas
 await conn.sendFile(m.chat, 'https://telegra.ph/file/0ea56fa1fba7bdbb619ae.jpg', 'fantasy.jpg', noviostxt.trim(),
 //En esta imagen vas a poner el url de la imagen grande
