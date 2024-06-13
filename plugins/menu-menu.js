@@ -469,7 +469,7 @@ TABLA DE CLASIFICACIÓN
 ┃🧶.alimentar | food @tag
 ╰──────────❍
 ╰══════════⊷❍`.trim()
-const vi = [' https://qu.ax/rgnB.mp4',
+const vi = ['https://qu.ax/rgnB.mp4',
 'https://qu.ax/rgnB.mp4',
 'https://qu.ax/rgnB.mp4']
 await conn.sendMessage(m.chat, { video: { url: vi.getRandom() }, gifPlayback: true, caption: menu, mentions: [m.sender, global.conn.user.jid] }, { quoted: fkontak })
